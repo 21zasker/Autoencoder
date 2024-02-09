@@ -27,6 +27,7 @@ The autoencoder follows a three-layer structure:
 ## Dependencies
 - NumPy
 - Matplotlib
+- Pillow (PIL)
 ## Example
 ![Reconstructed Image](https://github.com/21zasker/Autoencoder/blob/main/Screenshots/Results_image.png)
 ## Note
